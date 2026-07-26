@@ -215,7 +215,7 @@ This supports targeted retention strategies such as loyalty programs or personal
 
 
 
-\## 🏬 4. Store Performance (Average Order Value)
+\##  4. Store Performance (Average Order Value)
 
 
 
@@ -249,7 +249,7 @@ This supports targeted retention strategies such as loyalty programs or personal
 
 
 
-\## 🧠 5. Business Insights Summary
+\##  5. Business Insights Summary
 
 
 
@@ -281,7 +281,7 @@ This supports targeted retention strategies such as loyalty programs or personal
 
 
 
-\## 🛠️ Tools \& Technologies
+\##  Tools \& Technologies
 
 \- \*\*Python\*\* (data generation)  
 
@@ -297,7 +297,7 @@ This supports targeted retention strategies such as loyalty programs or personal
 
 
 
-\## 📁 Project Structure
+\##  Project Structure
 
 
 
